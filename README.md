@@ -1,2 +1,2 @@
-# [demo.traqua.ml](https://demo.traqua.ml)
+# [traqua.github.io](https://traqua.github.io)
 A website demonstrating how our service works
